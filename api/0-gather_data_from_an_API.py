@@ -2,6 +2,7 @@
 """
 Gather data from API and display task progress
 """
+import utils.session
 import requests
 import sys
 
